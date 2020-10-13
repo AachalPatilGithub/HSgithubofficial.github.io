@@ -29,6 +29,7 @@
     font-size: 25px;
     font-weight: bold;
   }
+  
 
   .header{
     background-color:rgb(214, 147, 70);
@@ -41,7 +42,7 @@
   }
   
   body{
-    background-image:url("HARII_HARII2.jpg ") ;
+    background-color: rgb(254, 252, 201);
     background-repeat: inherit;
   }
 
